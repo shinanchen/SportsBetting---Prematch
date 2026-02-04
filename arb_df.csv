@@ -1,0 +1,7 @@
+fixture_id,home_team,away_team,best_home_sportsbook,best_home_odds,best_away_sportsbook,best_away_odds,arb_percent,implied_sum
+20251214015D9682,Cincinnati Bengals,Baltimore Ravens,FanDuel,154,Bovada,-145,1.4462477904547688,0.9855375220954523
+202601173DA66F42,Denver Broncos,Buffalo Bills,FanDuel,-124,BetMGM,130,1.164596273291918,0.9883540372670808
+2025122623496A37,Kansas City Chiefs,Denver Broncos,DraftKings,800,Bovada,-750,0.6535947712418277,0.9934640522875817
+20251229B783BDDB,San Francisco 49ers,Chicago Bears,BetMGM,-190,Bovada,195,0.5844535359438852,0.9941554646405611
+20251221EC4BBEE6,Detroit Lions,Pittsburgh Steelers,DraftKings,-315,Bovada,325,0.5669737774627981,0.994330262225372
+202601253DAAAFA2,Denver Broncos,New England Patriots,BetRivers,185,FanDuel,-184,0.12354830738818823,0.9987645169261181

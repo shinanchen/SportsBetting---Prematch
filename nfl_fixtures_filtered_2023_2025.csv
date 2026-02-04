@@ -1,0 +1,91 @@
+fixture_id,game_id,start_date,home_team,away_team,season_year,season_week,season_type,status,has_odds,target_season,kickoff_dt,kickoff_ts,season_type_norm
+202512059E47F404,11434-21473-25-48,2025-12-05T01:15:00Z,Detroit Lions,Dallas Cowboys,2025,14,Regular Season,completed,True,2025,2025-12-05 01:15:00+00:00,1764897300,regular season
+202512072D5FF754,16341-41522-25-48,2025-12-07T18:00:00Z,Buffalo Bills,Cincinnati Bengals,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+202512076BF157C8,17463-42288-25-48,2025-12-07T18:00:00Z,Tampa Bay Buccaneers,New Orleans Saints,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+2025120779A25CAF,18821-82789-25-48,2025-12-07T18:00:00Z,Baltimore Ravens,Pittsburgh Steelers,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+202512077E3BFBC5,22677-12806-25-48,2025-12-07T18:00:00Z,New York Jets,Miami Dolphins,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+20251207814A151D,27927-17324-25-48,2025-12-07T18:00:00Z,Cleveland Browns,Tennessee Titans,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+2025120798447CB9,37797-33320-25-48,2025-12-07T18:00:00Z,Minnesota Vikings,Washington Commanders,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+20251207DE4E073C,32889-25327-25-48,2025-12-07T18:00:00Z,Atlanta Falcons,Seattle Seahawks,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+20251207FE11C0C2,40716-28265-25-48,2025-12-07T18:00:00Z,Jacksonville Jaguars,Indianapolis Colts,2025,14,Regular Season,completed,True,2025,2025-12-07 18:00:00+00:00,1765130400,regular season
+20251207C415D7AC,74813-26757-25-48,2025-12-07T21:05:00Z,Las Vegas Raiders,Denver Broncos,2025,14,Regular Season,completed,True,2025,2025-12-07 21:05:00+00:00,1765141500,regular season
+202512073D38BE4C,39341-78014-25-48,2025-12-07T21:25:00Z,Arizona Cardinals,Los Angeles Rams,2025,14,Regular Season,completed,True,2025,2025-12-07 21:25:00+00:00,1765142700,regular season
+202512076929C85F,24276-16343-25-48,2025-12-07T21:25:00Z,Green Bay Packers,Chicago Bears,2025,14,Regular Season,completed,True,2025,2025-12-07 21:25:00+00:00,1765142700,regular season
+20251208FE76603B,31124-13602-25-48,2025-12-08T01:20:00Z,Kansas City Chiefs,Houston Texans,2025,14,Regular Season,completed,True,2025,2025-12-08 01:20:00+00:00,1765156800,regular season
+202512092E1AD57C,33128-17233-25-49,2025-12-09T01:15:00Z,Los Angeles Chargers,Philadelphia Eagles,2025,14,Regular Season,completed,True,2025,2025-12-09 01:15:00+00:00,1765242900,regular season
+20251212B94F3878,32889-42288-25-49,2025-12-12T01:15:00Z,Tampa Bay Buccaneers,Atlanta Falcons,2025,15,Regular Season,completed,True,2025,2025-12-12 01:15:00+00:00,1765502100,regular season
+20251214015D9682,18821-41522-25-49,2025-12-14T18:00:00Z,Cincinnati Bengals,Baltimore Ravens,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+202512140E06AA66,26757-17233-25-49,2025-12-14T18:00:00Z,Philadelphia Eagles,Las Vegas Raiders,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+202512142C2D3FD3,37430-33320-25-49,2025-12-14T18:00:00Z,New York Giants,Washington Commanders,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+202512144037E9FC,28265-12806-25-49,2025-12-14T18:00:00Z,Jacksonville Jaguars,New York Jets,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+202512145C99035E,16341-37240-25-49,2025-12-14T18:00:00Z,New England Patriots,Buffalo Bills,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+202512145F369875,24276-27927-25-49,2025-12-14T18:00:00Z,Chicago Bears,Cleveland Browns,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+20251214C54D20C8,39341-31124-25-49,2025-12-14T18:00:00Z,Houston Texans,Arizona Cardinals,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+20251214D8CA7E72,13602-33128-25-49,2025-12-14T18:00:00Z,Kansas City Chiefs,Los Angeles Chargers,2025,15,Regular Season,completed,True,2025,2025-12-14 18:00:00+00:00,1765735200,regular season
+2025121435005E2A,74813-16343-25-49,2025-12-14T21:25:00Z,Denver Broncos,Green Bay Packers,2025,15,Regular Season,completed,True,2025,2025-12-14 21:25:00+00:00,1765747500,regular season
+202512144BBA44A8,40716-25327-25-49,2025-12-14T21:25:00Z,Seattle Seahawks,Indianapolis Colts,2025,15,Regular Season,completed,True,2025,2025-12-14 21:25:00+00:00,1765747500,regular season
+20251214681DE07C,18124-17463-25-49,2025-12-14T21:25:00Z,New Orleans Saints,Carolina Panthers,2025,15,Regular Season,completed,True,2025,2025-12-14 21:25:00+00:00,1765747500,regular season
+202512147226155F,21473-78014-25-49,2025-12-14T21:25:00Z,Los Angeles Rams,Detroit Lions,2025,15,Regular Season,completed,True,2025,2025-12-14 21:25:00+00:00,1765747500,regular season
+202512149AB269BB,13184-17324-25-49,2025-12-14T21:25:00Z,San Francisco 49ers,Tennessee Titans,2025,15,Regular Season,completed,True,2025,2025-12-14 21:25:00+00:00,1765747500,regular season
+202512152E677740,11434-37797-25-49,2025-12-15T01:20:00Z,Dallas Cowboys,Minnesota Vikings,2025,15,Regular Season,completed,True,2025,2025-12-15 01:20:00+00:00,1765761600,regular season
+202512169E09F6EC,22677-82789-25-50,2025-12-16T01:15:00Z,Pittsburgh Steelers,Miami Dolphins,2025,15,Regular Season,completed,True,2025,2025-12-16 01:15:00+00:00,1765847700,regular season
+20251219352852AC,78014-25327-25-50,2025-12-19T01:15:00Z,Seattle Seahawks,Los Angeles Rams,2025,16,Regular Season,completed,True,2025,2025-12-19 01:15:00+00:00,1766106900,regular season
+202512201938099B,17233-33320-25-50,2025-12-20T22:00:00Z,Washington Commanders,Philadelphia Eagles,2025,16,Regular Season,completed,True,2025,2025-12-20 22:00:00+00:00,1766268000,regular season
+202512208A3F6A64,24276-16343-25-50,2025-12-21T01:20:00Z,Chicago Bears,Green Bay Packers,2025,16,Regular Season,completed,True,2025,2025-12-21 01:20:00+00:00,1766280000,regular season
+202512212E17B4D4,16341-27927-25-50,2025-12-21T18:00:00Z,Cleveland Browns,Buffalo Bills,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+2025122198FE11BB,13602-17324-25-50,2025-12-21T18:00:00Z,Tennessee Titans,Kansas City Chiefs,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+20251221B5A52881,17463-12806-25-50,2025-12-21T18:00:00Z,New Orleans Saints,New York Jets,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+20251221CCAAF8F3,18124-42288-25-50,2025-12-21T18:00:00Z,Carolina Panthers,Tampa Bay Buccaneers,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+20251221D0C649EF,11434-33128-25-50,2025-12-21T18:00:00Z,Dallas Cowboys,Los Angeles Chargers,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+20251221DA80FD9D,37797-37430-25-50,2025-12-21T18:00:00Z,New York Giants,Minnesota Vikings,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+202512229757665C,41522-22677-25-50,2025-12-21T18:00:00Z,Miami Dolphins,Cincinnati Bengals,2025,16,Regular Season,completed,True,2025,2025-12-21 18:00:00+00:00,1766340000,regular season
+202512214BD01825,74813-28265-25-50,2025-12-21T21:05:00Z,Denver Broncos,Jacksonville Jaguars,2025,16,Regular Season,completed,True,2025,2025-12-21 21:05:00+00:00,1766351100,regular season
+2025122188E838DA,39341-32889-25-50,2025-12-21T21:05:00Z,Arizona Cardinals,Atlanta Falcons,2025,16,Regular Season,completed,True,2025,2025-12-21 21:05:00+00:00,1766351100,regular season
+202512212C9F8616,31124-26757-25-50,2025-12-21T21:25:00Z,Houston Texans,Las Vegas Raiders,2025,16,Regular Season,completed,True,2025,2025-12-21 21:25:00+00:00,1766352300,regular season
+20251221EC4BBEE6,21473-82789-25-50,2025-12-21T21:25:00Z,Detroit Lions,Pittsburgh Steelers,2025,16,Regular Season,completed,True,2025,2025-12-21 21:25:00+00:00,1766352300,regular season
+202512212D50BED0,18821-37240-25-50,2025-12-22T01:20:00Z,Baltimore Ravens,New England Patriots,2025,16,Regular Season,completed,True,2025,2025-12-22 01:20:00+00:00,1766366400,regular season
+2025122388396EF7,40716-13184-25-51,2025-12-23T01:15:00Z,Indianapolis Colts,San Francisco 49ers,2025,16,Regular Season,completed,True,2025,2025-12-23 01:15:00+00:00,1766452500,regular season
+20251225B0C134B3,11434-33320-25-51,2025-12-25T18:00:00Z,Washington Commanders,Dallas Cowboys,2025,52,Regular Season,completed,True,2025,2025-12-25 18:00:00+00:00,1766685600,regular season
+20251225D10B7EEF,21473-37797-25-51,2025-12-25T21:30:00Z,Minnesota Vikings,Detroit Lions,2025,52,Regular Season,completed,True,2025,2025-12-25 21:30:00+00:00,1766698200,regular season
+2025122623496A37,74813-13602-25-51,2025-12-26T01:15:00Z,Kansas City Chiefs,Denver Broncos,2025,17,Regular Season,completed,True,2025,2025-12-26 01:15:00+00:00,1766711700,regular season
+20251227612599AD,31124-33128-25-51,2025-12-27T21:30:00Z,Los Angeles Chargers,Houston Texans,2025,17,Regular Season,completed,True,2025,2025-12-27 21:30:00+00:00,1766871000,regular season
+202512286EAD711F,18821-16343-25-51,2025-12-28T01:00:00Z,Green Bay Packers,Baltimore Ravens,2025,17,Regular Season,completed,True,2025,2025-12-28 01:00:00+00:00,1766883600,regular season
+2025122831918526,22677-42288-25-51,2025-12-28T18:00:00Z,Miami Dolphins,Tampa Bay Buccaneers,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+202512285206401A,27927-82789-25-51,2025-12-28T18:00:00Z,Cleveland Browns,Pittsburgh Steelers,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+202512285E3B31D8,37240-12806-25-51,2025-12-28T18:00:00Z,New York Jets,New England Patriots,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+2025122883B3E284,18124-25327-25-51,2025-12-28T18:00:00Z,Carolina Panthers,Seattle Seahawks,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+20251228D700D46A,39341-41522-25-51,2025-12-28T18:00:00Z,Cincinnati Bengals,Arizona Cardinals,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+20251228EB4C5119,17463-17324-25-51,2025-12-28T18:00:00Z,Tennessee Titans,New Orleans Saints,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+20251228F59C1755,40716-28265-25-51,2025-12-28T18:00:00Z,Indianapolis Colts,Jacksonville Jaguars,2025,17,Regular Season,completed,True,2025,2025-12-28 18:00:00+00:00,1766944800,regular season
+20251228F0A63880,26757-37430-25-51,2025-12-28T21:05:00Z,Las Vegas Raiders,New York Giants,2025,17,Regular Season,completed,True,2025,2025-12-28 21:05:00+00:00,1766955900,regular season
+202512280058C941,16341-17233-25-51,2025-12-28T21:25:00Z,Buffalo Bills,Philadelphia Eagles,2025,17,Regular Season,completed,True,2025,2025-12-28 21:25:00+00:00,1766957100,regular season
+20251229B783BDDB,24276-13184-25-51,2025-12-29T01:20:00Z,San Francisco 49ers,Chicago Bears,2025,17,Regular Season,completed,True,2025,2025-12-29 01:20:00+00:00,1766971200,regular season
+20251229B6C1491E,32889-78014-25-52,2025-12-30T01:15:00Z,Atlanta Falcons,Los Angeles Rams,2025,17,Regular Season,completed,True,2025,2025-12-30 01:15:00+00:00,1767057300,regular season
+20260104B3E8B2FC,18124-42288-26-00,2026-01-03T21:30:00Z,Tampa Bay Buccaneers,Carolina Panthers,2025,18,Regular Season,completed,True,2025,2026-01-03 21:30:00+00:00,1767475800,regular season
+202601047A0A801C,13184-25327-26-00,2026-01-04T01:00:00Z,San Francisco 49ers,Seattle Seahawks,2025,18,Regular Season,completed,True,2025,2026-01-04 01:00:00+00:00,1767488400,regular season
+20260104020FA6B0,31124-40716-26-00,2026-01-04T18:00:00Z,Houston Texans,Indianapolis Colts,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+20260104A8F715EA,32889-17463-26-00,2026-01-04T18:00:00Z,Atlanta Falcons,New Orleans Saints,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+20260104CD19DB61,28265-17324-26-00,2026-01-04T18:00:00Z,Jacksonville Jaguars,Tennessee Titans,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+20260104E2B747CE,41522-27927-26-00,2026-01-04T18:00:00Z,Cincinnati Bengals,Cleveland Browns,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+20260104E69BA9B5,11434-37430-26-00,2026-01-04T18:00:00Z,New York Giants,Dallas Cowboys,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+20260104F8F3D2CE,16343-37797-26-00,2026-01-04T18:00:00Z,Minnesota Vikings,Green Bay Packers,2025,18,Regular Season,completed,True,2025,2026-01-04 18:00:00+00:00,1767549600,regular season
+202601040485BD9C,39341-78014-26-00,2026-01-04T21:25:00Z,Los Angeles Rams,Arizona Cardinals,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+202601041A39EC16,24276-21473-26-00,2026-01-04T21:25:00Z,Chicago Bears,Detroit Lions,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+202601041C21F341,13602-26757-26-00,2026-01-04T21:25:00Z,Las Vegas Raiders,Kansas City Chiefs,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+202601042483FC89,16341-12806-26-00,2026-01-04T21:25:00Z,Buffalo Bills,New York Jets,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+202601044C1726ED,74813-33128-26-00,2026-01-04T21:25:00Z,Denver Broncos,Los Angeles Chargers,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+202601044DF1A43D,17233-33320-26-00,2026-01-04T21:25:00Z,Philadelphia Eagles,Washington Commanders,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+20260104A4604ED8,22677-37240-26-00,2026-01-04T21:25:00Z,New England Patriots,Miami Dolphins,2025,18,Regular Season,completed,True,2025,2026-01-04 21:25:00+00:00,1767561900,regular season
+2026010458A41202,18821-82789-26-00,2026-01-05T01:20:00Z,Pittsburgh Steelers,Baltimore Ravens,2025,18,Regular Season,completed,True,2025,2026-01-05 01:20:00+00:00,1767576000,regular season
+2026011039A14E46,18124-78014-26-01,2026-01-10T21:30:00Z,Carolina Panthers,Los Angeles Rams,2025,19,Playoffs,completed,True,2025,2026-01-10 21:30:00+00:00,1768080600,playoffs
+20260110512CBBBC,24276-16343-26-01,2026-01-11T01:00:00Z,Chicago Bears,Green Bay Packers,2025,19,Playoffs,completed,True,2025,2026-01-11 01:00:00+00:00,1768093200,playoffs
+202601103DA90742,16341-28265-26-01,2026-01-11T18:00:00Z,Jacksonville Jaguars,Buffalo Bills,2025,19,Playoffs,completed,True,2025,2026-01-11 18:00:00+00:00,1768154400,playoffs
+20260110B07B671F,17233-13184-26-01,2026-01-11T21:30:00Z,Philadelphia Eagles,San Francisco 49ers,2025,19,Playoffs,completed,True,2025,2026-01-11 21:30:00+00:00,1768167000,playoffs
+202601103624A3B0,33128-37240-26-01,2026-01-12T01:15:00Z,New England Patriots,Los Angeles Chargers,2025,19,Playoffs,completed,True,2025,2026-01-12 01:15:00+00:00,1768180500,playoffs
+202601123624A3B1,31124-82789-26-02,2026-01-13T01:15:00Z,Pittsburgh Steelers,Houston Texans,2025,19,Playoffs,completed,True,2025,2026-01-13 01:15:00+00:00,1768266900,playoffs
+202601173DA66F42,16341-74813-26-02,2026-01-17T21:30:00Z,Denver Broncos,Buffalo Bills,2025,20,Playoffs,completed,True,2025,2026-01-17 21:30:00+00:00,1768685400,playoffs
+202601173DA99F42,13184-25327-26-02,2026-01-18T01:00:00Z,Seattle Seahawks,San Francisco 49ers,2025,20,Playoffs,completed,True,2025,2026-01-18 01:00:00+00:00,1768698000,playoffs
+202601173DA44F42,31124-37240-26-02,2026-01-18T20:00:00Z,New England Patriots,Houston Texans,2025,20,Playoffs,completed,True,2025,2026-01-18 20:00:00+00:00,1768766400,playoffs
+202601173DA88F42,24276-78014-26-02,2026-01-18T23:30:00Z,Chicago Bears,Los Angeles Rams,2025,20,Playoffs,completed,True,2025,2026-01-18 23:30:00+00:00,1768779000,playoffs
+202601253DAAAFA2,74813-37240-26-03,2026-01-25T20:00:00Z,Denver Broncos,New England Patriots,2025,21,Playoffs,completed,True,2025,2026-01-25 20:00:00+00:00,1769371200,playoffs
+202601263DCC4FC2,78014-25327-26-03,2026-01-25T23:30:00Z,Seattle Seahawks,Los Angeles Rams,2025,21,Playoffs,completed,True,2025,2026-01-25 23:30:00+00:00,1769383800,playoffs
